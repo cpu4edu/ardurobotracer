@@ -17,3 +17,5 @@ test
 [google]: http://google.com/        "Google"
 
 [リンクのテキスト](リンクのアドレス "リンクのタイトル")
+
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
